@@ -8,7 +8,8 @@ nouns = {'dog': 'perro',
          'milk': 'leche',
          'coffee': 'café',
          'apple': 'manzana',
-         'photo': 'foto'}
+         'photo': 'foto',
+         'cookie': 'galleta'}
 
 ###nouns_es_to_en = {value: key for key, value in nouns_en_to_es.items()}
 
